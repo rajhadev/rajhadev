@@ -118,7 +118,7 @@ Laravel • Inertia • React
 <img src="https://img.shields.io/badge/Portfolio-rajha.sy-blue?style=for-the-badge&logo=googlechrome">
 </a>
 
-<a href="mailto:hello@rajha.sy">
+<a href="mailto:info@rajha.sy">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
