@@ -1,5 +1,3 @@
-![Banner](https://your-image-url.com/banner.png)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajhadev&layout=compact)
 <h1 align="center">
   Hi 👋, I'm Mohammad Rajha
 </h1>
