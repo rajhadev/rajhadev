@@ -6,7 +6,7 @@
 
 I am a Full Stack Developer passionate about building modern web applications, APIs, and mobile applications.
 
-🌐 Portfolio: https://rajha.sy
+🌐 Portfolio: rajha.sy
 
 ---
 
@@ -58,10 +58,10 @@ Point of Sale system for inventory and sales management.
 ## 📫 Contact
 
 Website:
-https://rajha.sy
+rajha.sy
 
 Email:
-hello@rajha.sy
+info@rajha.sy
 
 LinkedIn:
 https://linkedin.com/in/rajhadev
