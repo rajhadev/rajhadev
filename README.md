@@ -122,7 +122,7 @@ Laravel • Inertia • React
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://linkedin.com/rajhadev">
+<a href="https://linkedin.com/in/rajhadev">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 
